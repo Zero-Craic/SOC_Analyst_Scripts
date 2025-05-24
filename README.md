@@ -19,9 +19,14 @@ Now create your hot key
 Now just copy your link , in this instance for a url that has a attached email in plain text or base64 and hit your hot key 
 
 For proofpoint/safelinks , copy link and hit your hot key , decoded link will populate in clipboard
+
 For File hash script, copy filename after downloading and hash will populate in clipboard
+
 For random Microsoft email creator , just hit hot key and the email address will populate in clipboard
+
 For Quick email add, copy the link with embedded email (b64 encoded or plain string) and hit hotkey and new link will populate in clipboard
+
+For GetZipped just copy name of Zip in downloads folder and hit hot keys to get hash for zip and all files within
 
 I found this helpful but if you can improve please do, just trying to make everyone’s life a lil easier .
 
