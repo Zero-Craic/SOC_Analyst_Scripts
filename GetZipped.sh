@@ -8,7 +8,7 @@
 # @raycast.icon 🔓
 
 # Documentation
-# @raycast.author Ronan Lynch
+# @raycast.author  Rónán Lynch (ZeroCraic)
 # @raycast.descriptionGet Zipped file hashes
 # Example: yaaarrrppp
 
